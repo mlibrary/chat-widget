@@ -4,7 +4,7 @@ Here are the files we used at the Skokie Public Library to make our own chat wid
 
 ## Why bother?
 
-Good question! If clean, minimally designed things are your jam, then this widget might appeal to use. More to the point, though, our chat transactions tripled once we started using the widget, and having it appear on every page of the site (and we integrated with our catalog without any issue).
+Good question! If clean, minimally designed things are your jam, then this widget might appeal to you. More to the point, though, our chat transactions tripled once we started using the widget, and having it appear on every page of the site (and we integrated with our catalog without any issue).
 
 ## What's included
 
