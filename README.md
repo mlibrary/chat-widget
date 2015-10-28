@@ -2,6 +2,10 @@
 
 Here are the files we used at the Skokie Public Library to make our own chat widget for the [Libraryh3lp](https://us.libraryh3lp.com/) service. Don't use Libraryh3lp? These files probably won't be much help, sorry.
 
+## Why bother?
+
+Good question! If clean, minimally designed things are your jam, then this widget might appeal to use. More to the point, though, our chat transactions tripled once we started using the widget, and having it appear on every page of the site (and we integrated with our catalog without any issue).
+
 ## What's included
 
 There are four basic components included here:
@@ -10,6 +14,8 @@ There are four basic components included here:
 - `chat_widget.html`: Basic HTML for the widget.
 - `chat_widget.css`: Styles for the chat widget on your website. Or, use `chat_widget.scss` if you're into that.
 - `chat_widget.js`: A few lines of JavaScript (well, jQuery flavored JS) to make the widget work.
+
+[Download the files](https://github.com/skokielibrary/chat-widget/archive/master.zip) or use [clone them](https://github.com/skokielibrary/chat-widget.git) using git.
 
 ## How to set it up
 
