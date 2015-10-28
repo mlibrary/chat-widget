@@ -34,11 +34,11 @@ There are two variables you'll need to update before saving and moving on to the
 
 ### CSS
 
-Include the CSS file, or better yet, use the `.scss` version as an include with your Sass files.
+Include the CSS file, or better yet, use the `.scss` version as an include with your Sass files. If you're going the Sass route, you may want to update the `$primary-color` variable to match your site (or change the variable name altogether to match your naming scheme).
 
 ### JavaScript
 
-At this time, the widget assumes that you're using jQuery on your site. A non-jQuery version would be easy, but we were already loading it, so why not? Similar to the HTML files, be sure to replace `{{chatqueue}}` with the name of your queue. The script uses this to check the "presence API", to see if anyone is staffing your chat service or not.
+At this time, the widget assumes that you're using jQuery on your site. A non-jQuery version would be easy, but we were already loading it on our site, we just went this route? Similar to the HTML files, be sure to replace `{{chatqueue}}` with the name of your queue. The script uses this to check the "presence API", to see if anyone is staffing your chat service or not and needs this name to do it.
 
 > Note: The widget's default behavior is to hide when no one is staff the widget. If you don't want to hide it, you could opt to swap out the message instead.
 
