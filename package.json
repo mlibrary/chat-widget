@@ -1,0 +1,15 @@
+{
+  "name": "chat-widget",
+  "version": "1.0.0",
+  "description": "CSS and JS for a library website chat widget.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skokie Public Library",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
